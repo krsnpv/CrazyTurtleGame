@@ -1,0 +1,13 @@
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe.config
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csprojResolveAssemblyReference.cache
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.pdb
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\SmallBasicLibrary.dll
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.exe
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.pdb
+C:\Users\Scorpio\Documents\Visual Studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe.config
+C:\Users\Scorpio\Documents\Visual Studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.exe
+C:\Users\Scorpio\Documents\Visual Studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.pdb
+C:\Users\Scorpio\Documents\Visual Studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.exe
+C:\Users\Scorpio\Documents\Visual Studio 2015\Projects\TurtleGame\TurtleGame\bin\Debug\TurtleGame.pdb
+C:\Users\Scorpio\Documents\Visual Studio 2015\Projects\TurtleGame\TurtleGame\obj\Debug\TurtleGame.csprojResolveAssemblyReference.cache

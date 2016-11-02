@@ -1,0 +1,6 @@
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Release\TurtleGame.exe.config
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Release\TurtleGame.exe
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Release\TurtleGame.pdb
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\bin\Release\SmallBasicLibrary.dll
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Release\TurtleGame.exe
+c:\users\casjan\documents\visual studio 2015\Projects\TurtleGame\TurtleGame\obj\Release\TurtleGame.pdb
